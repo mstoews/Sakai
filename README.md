@@ -1,2 +1,2 @@
-# Sakai-
+# Sakai
 Sakai Prime
